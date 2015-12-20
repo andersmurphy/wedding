@@ -1,0 +1,63 @@
+---
+layout: post
+title: "Magda & Anders 6th August 2016"
+date: 2015-01-09
+backgrounds:
+    - http://sumfinity.com/wp-content/uploads/2014/02/Mary-Basilica-Krakow.jpg
+thumb: /assets/images/magda_and_anders.png
+category: music
+tags: relax fun songs playlist
+---
+
+We would love to celebrate our special day with you!
+
+So please save the date and let us know as soon as you can whether you'll be able to make it.
+
+#The Day
+This will be a proper Polish wedding so if you are not used to drinking large amounts, it would be best to start practicing now.
+
+There will be a coach that will pick you up from Krakow on Saturday morning and take everyone to their rooms giving enough time to get ready before the wedding starts. The venue is [Restauracja Zmigrod] in [Opatow], Poland.
+
+The ceremony will start at the collegiate of St Marcin at 4pm, followed by the main reception in Zmigrod restaurant at 5pm. The fun will continue till 5 in the morning! Hotel rooms for guests will be provided for the night of the wedding.
+
+
+#Plan Your Holiday
+There are multiple options of direct flights from Edinburgh, Glasgow or London:
+
+###Edinburgh to Krakow:
+[Ryanair] - Thursday evening, flight back: Tuesday evening.
+[Easyjet] - Wednesday or Friday morning, flight back: Monday or Wednesday.
+
+###London to Krakow:
+[British Airways] from Heathrow.
+[Ryanair] from Stansted.
+[Easyjet] from Gatwick.
+
+And many more flights with stopovers.
+
+It's worth checking [Skyscanner] or [Kayak] to best plan your journey if you're coming from other parts of the world; try picking Krakow as your destination airport.
+
+[Krakow] is the most beautiful city in Poland, so it is worth spending a few days there before or after the wedding, depending on your flight.
+
+Accommodation in Krakow starts from as little as £12 per person per night.
+
+It's also worth checking [Airbnb] for a nice apartment.
+
+We are happy to help with choosing your accommodation or any other questions you might have.
+
+#What To Expect
+
+If you are really curious about what to expect at a typical Polish wedding, [this article] describes it really well.
+
+Looking forward to hearing from you soon.
+
+[Restauracja Zmigrod]:http://www.zmigrod.com/index.php?option=com_content&view=article&id=3&Itemid=3
+[Opatow]: https://en.m.wikipedia.org/wiki/Opatów
+[this article]: http://culture.pl/en/article/a-foreigners-guide-to-polish-weddings
+[Ryanair]:https://www.ryanair.com/gb/en/
+[Easyjet]:http://www.easyjet.com/en/
+[British Airways]:http://www.britishairways.com/travel/home/public/en_gb
+[Skyscanner]:http://www.skyscanner.net/
+[Kayak]:http://www.kayak.co.uk/
+[Krakow]:https://en.wikipedia.org/wiki/Krak%C3%B3w
+[Airbnb]:https://www.airbnb.co.uk/
