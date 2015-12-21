@@ -2,8 +2,8 @@
 name: Travelogue
 description: 'A minimal, single-column Jekyll theme that provides an immersive read experience for your readers'
 
-baseurl: 'http://andersmurphy.com/wedding/' # the subpath of your site, e.g. /blog
-url: 'http://andersmurphy.com/wedding/' # the base hostname & protocol for your site
+baseurl: 'http://andersmurphy.com/wedding' # the subpath of your site, e.g. /blog
+url: 'http://andersmurphy.com/wedding' # the base hostname & protocol for your site
 
 # Build settings
 markdown:            kramdown
@@ -28,9 +28,6 @@ defaults:
         # Meta
         show_tags: true
         show_categories: true
-        # Social
-        share_buttons: true
-        disqus: true
 
 gems:
     - jekyll-feed
